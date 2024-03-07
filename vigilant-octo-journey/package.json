@@ -1,6 +1,6 @@
 {
   "name": "vigilant-octo-journey",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -34,5 +34,5 @@
   "bugs": {
     "url": "https://github.com/saltoterus/vigilant-octo-journey/issues"
   },
-  "homepage": "https://github.com/saltoterus/vigilant-octo-journey#readme"
+  "homepage": "https://github.com/saltoterus/vigilant-octo-journey/blob/main/vigilant-octo-journey/README.md"
 }
